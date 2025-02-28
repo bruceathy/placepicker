@@ -6,7 +6,7 @@ import Modal from "./components/Modal.jsx";
 import DeleteConfirmation from "./components/DeleteConfirmation.jsx";
 import logoImg from "./assets/logo.png";
 import { sortPlacesByDistance } from "./loc.js";
-import { use } from "react";
+// import { use } from "react";
 
 function App() {
   const modal = useRef();
